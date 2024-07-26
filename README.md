@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40huythai855+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+3rd-year+student+from+UET-VNU)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+3rd-year+student+from+UET-VNU;Interested+in+AIOps%2CDevOps+and+Quant)](https://git.io/typing-svg)
 ---
 ### 👩‍💻 About me:
-- 🌱 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
-- 🔭 I’m currently working in the field of Cloud Computing & DevOps.
-- ⚡ Favourite quote: "Chances are always for those who are well prepared".
+- 🌱 I'm pursuing Bachelor's Degree in Computer Science at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
+- 🔭 I’m currently working in the field of AI & MLOps.
+- ⚡ Favourite quote: "There is no right path, just keep trying and fixing".
 - 💬 Feel free to ask me about anything about my work or new opportunities.
 - 📫 Contact me through: [phungducanh2511@.gmail.com](mailto:phungducanh2511@gmail.com).
 
