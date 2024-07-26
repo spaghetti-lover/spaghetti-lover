@@ -33,5 +33,5 @@
 
 &nbsp;
 
-| <img src="img/profile-4.jpg" width="190" height="190"> | ![DucAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true) |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| ![DucAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true) |
+| ------------------------------------------------------------------------------------------------------------- |
