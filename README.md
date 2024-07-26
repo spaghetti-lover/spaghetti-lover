@@ -33,5 +33,5 @@
 
 &nbsp;
 
-| ![DucAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true) |
+![DucAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true)
 | ------------------------------------------------------------------------------------------------------------- |
