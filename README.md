@@ -26,7 +26,7 @@
 
 ### ✉ Connect with me via:
 
-<a href="https://github.com/spaghetti-lover" target="blank"><img align="center" src="https://img.shields.io/badge/-spaghetti-lover-1C1C1C?logo=github&logoColor=white"/></a>
+<a href="https://github.com/spaghetti-lover" target="blank"><img align="center" src="https://img.shields.io/badge/-ducanh-1C1C1C?logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/duc-anh-phung-025a3a248/" target="blank"><img align="center" src="https://img.shields.io/badge/-huythai855-0077B5?logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014872231760" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20Huy%20Th%C3%A1i-4267b2?logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/justme.ducanh/" target="blank"><img align="center" src="https://img.shields.io/badge/-huythai855.py-F67A00?logo=instagram&logoColor=white" /></a>
