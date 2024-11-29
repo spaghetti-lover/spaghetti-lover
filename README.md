@@ -21,7 +21,7 @@
     <img src="./logo/git.png" title="Git" width="40" height="40" />
     <img src="./logo/postman.png" title="Postman" width="40" height="40" />
     <img src="./logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />    
-    <img src="./logo/go.svg" title="Go" width="60" height="60" />    
+    <img src="./logo/go.svg" title="Go" width="40" height="40" />    
   </p>
 </div>
 
