@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=A+3rd-year+student+from+UET-VNU;Interested+in+Infrastructure+and+HPC+Trading)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=A+3rd-year+student+from+UET-VNU;Interested+in+Infrastructure,+HPC+and+Trading)](https://git.io/typing-svg)
 
 ### 👩‍💻 About me:
 
