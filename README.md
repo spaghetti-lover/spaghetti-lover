@@ -8,7 +8,7 @@
 - ⚡ Favourite quote: "There is no right path, just keep trying and getting mistakes".
 - ☺️ Fun fact: I enjoy caring for fish and aquarium plants, growing vegetables, and cooking. As for sports, badminton is pretty much the only one I can play—I'm terrible at the others, despite my height.
 - 💬 Feel free to ask me about anything about my work or new opportunities.
-- 📫 Contact me through: [phungducanh2511@.gmail.com](mailto:phungducanh2511@gmail.com).
+- 📫 Contact me through: [phungducanh2511@.gmail.com](mailto:phungducanh2511@gmail.com) or checkout my CV at here.
 
 ### 🛠 Languages & tools:
 
