@@ -14,16 +14,13 @@
 
 <div>          
   <p align="left">
+    <img src="./logo/go.svg" title="Go" width="40" height="40" />
     <img src="./logo/cplusplus.png" title="C++" width="40" height="40" />
+    <img src="./logo/python.png" title="python" width="40" height="40" />
     <img src="./logo/javascript.png" title="Javascript" width="40" height="40" />
     <img src="./logo/typescript.png" title="Typescript" width="40" height="40" />
-    <img src="./logo/python.png" title="python" width="40" height="40" />
     <img src="./logo/docker.png" title="Docker" width="40" height="40" />
-    <img src="./logo/mongdb.png" title="MongoDB" width="40" height="40" />
     <img src="./logo/git.png" title="Git" width="40" height="40" />
-    <img src="./logo/postman.png" title="Postman" width="40" height="40" />
-    <img src="./logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />    
-    <img src="./logo/go.svg" title="Go" width="40" height="40" />    
   </p>
 </div>
 
