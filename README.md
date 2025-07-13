@@ -15,12 +15,13 @@
 <div>          
   <p align="left">
     <img src="./logo/go.svg" title="Go" width="40" height="40" />
-    <img src="./logo/cplusplus.png" title="C++" width="40" height="40" />
     <img src="./logo/python.png" title="python" width="40" height="40" />
-    <img src="./logo/javascript.png" title="Javascript" width="40" height="40" />
     <img src="./logo/typescript.png" title="Typescript" width="40" height="40" />
-    <img src="./logo/docker.png" title="Docker" width="40" height="40" />
-    <img src="./logo/git.png" title="Git" width="40" height="40" />
+    <img src="./logo/postgresql.png" title="PostgreSQL" width="40" height="40" />
+    <img src="./logo/redis.png" title="Redis" width="40" height="40" />
+    <img src="./logo/kafka.png" title="Kafka" width="40" height="40" />
+    <img src="./logo/starrocks.png" title="StarRocks" width="40" height="40" />
+    <img src="./logo/clickhouse.png" title="ClickHouse" width="40" height="40" />
   </p>
 </div>
 
