@@ -21,7 +21,6 @@
     <img src="./logo/redis.png" title="Redis" width="40" height="40" />
     <img src="./logo/kafka.png" title="Kafka" width="40" height="40" />
     <img src="./logo/starrocks.png" title="StarRocks" width="40" height="40" />
-    <img src="./logo/clickhouse.png" title="ClickHouse" width="40" height="40" />
   </p>
 </div>
 
