@@ -32,6 +32,6 @@
 <a href="https://www.instagram.com/justme.ducanh/" target="blank"><img align="center" src="https://img.shields.io/badge/-justme.ducanh-F67A00?logo=instagram&logoColor=white" /></a>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghetti-lover&size_weight=0.5&count_weight=0.5&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghetti-lover&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" />
 </div>
