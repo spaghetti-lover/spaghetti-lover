@@ -10,13 +10,19 @@
 - 💬 Feel free to ask me about anything about my work or new opportunities.
 - 📫 Contact me through: [phungducanh2511@.gmail.com](mailto:phungducanh2511@gmail.com).
 
-### 🛠 Languages & tools:
+### 🛠 Languages:
 
 <div>          
   <p align="left">
     <img src="./logo/go.svg" title="Go" width="40" height="40" />
     <img src="./logo/python.png" title="python" width="40" height="40" />
     <img src="./logo/typescript.png" title="Typescript" width="40" height="40" />
+  </p>
+</div>
+
+### 🎏 Tools and Technology:
+<div>
+  <p align="left">
     <img src="./logo/postgresql.png" title="PostgreSQL" width="40" height="40" />
     <img src="./logo/redis.png" title="Redis" width="40" height="40" />
     <img src="./logo/kafka.png" title="Kafka" width="40" height="40" />
