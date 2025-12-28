@@ -30,14 +30,5 @@
   </p>
 </div>
 
-### ✉ Connect with me via:
-
-<a href="https://github.com/spaghetti-lover" target="blank"><img align="center" src="https://img.shields.io/badge/-ducanh2511-1C1C1C?logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/duc-anh-phung-025a3a248/" target="blank"><img align="center" src="https://img.shields.io/badge/-ducanh2511-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100014872231760" target="blank"><img align="center" src="https://img.shields.io/badge/-PhungDucAnh-4267b2?logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/justme.ducanh/" target="blank"><img align="center" src="https://img.shields.io/badge/-justme.ducanh-F67A00?logo=instagram&logoColor=white" /></a>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=spaghetti-lover&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghetti-lover&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" />
-</div>
+### ✉️ Connect with me via:
+<p align="left"> <a href="https://github.com/spaghetti-lover"> <img src="https://img.shields.io/badge/GitHub-ducanh2511-1C1C1C?logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/duc-anh-phung-025a3a248/"> <img src="https://img.shields.io/badge/LinkedIn-ducanh2511-0077B5?logo=linkedin&logoColor=white" /> </a> <a href="https://www.facebook.com/profile.php?id=100014872231760"> <img src="https://img.shields.io/badge/Facebook-PhungDucAnh-4267B2?logo=facebook&logoColor=white" /> </a> <a href="https://substack.com/@phungducanh"> <img src="https://img.shields.io/badge/Substack-phungducanh-FF6719?logo=substack&logoColor=white" /> </a> </p>
