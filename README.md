@@ -1,6 +1,6 @@
 ### 👩‍💻 About me:
 
-- 🔭 I have a strong passion for Backend, especially in High Frequency Trading System. Additionally, I am deeply interested in Quant Finance.
+- 🔭 Software Engineer (AI Agent, Backend)
 - 📫 Contact me through: [phungducanh2511@.gmail.com](mailto:phungducanh2511@gmail.com).
 
 ### ✉️ Connect with me via:
