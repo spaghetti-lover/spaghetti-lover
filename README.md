@@ -13,5 +13,3 @@
 ```
 
 🌎 https://spaghetti-lover.github.io/
-
-📩 felixphungducanh@gmail.com
