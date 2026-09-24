@@ -9,6 +9,6 @@
 
 Currently, interested in Agent memory, Distributed System and Math
 
-🌎 [my web](https://spaghetti-lover.github.io/)
+🌎 https://spaghetti-lover.github.io/
 
 📩 felixphungducanh@gmail.com
