@@ -12,8 +12,6 @@
 \______)\__)                \______)\__)                \______)\__)                \______)\__)
 ```
 
-Currently interested in agent memory, distributed system & math
-
 🌎 https://spaghetti-lover.github.io/
 
 📩 felixphungducanh@gmail.com
