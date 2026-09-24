@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in Agent memory, Distributed System and Math
+Currently, interested in agent memory, distributed system and math
 
 🌎 https://spaghetti-lover.github.io/
 
