@@ -7,8 +7,8 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in ML systems & efficient models
+Currently, interested in Agent memory, Distributed System and Math
 
-🌎 my web
+🌎 [my web](https://spaghetti-lover.github.io/)
 
 📩 felixphungducanh@gmail.com
